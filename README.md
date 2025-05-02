@@ -1,0 +1,1 @@
+# ainmate-firebase-template
